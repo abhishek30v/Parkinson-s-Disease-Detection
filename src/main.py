@@ -1,4 +1,3 @@
-# src/main.py
 import pandas as pd
 import pickle
 import seaborn as sns
